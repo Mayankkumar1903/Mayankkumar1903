@@ -11,6 +11,14 @@
 </p>
 
 
+- 🔭 I’m currently working on Data Structures and Algorithms
+- 🌱 I’m currently learning MERN 
+- 💬 Ask me about: tech, anime
+- 😄 Pronouns: he/him
+-  ⚡ Languages: C++,JAVA,C,Javascript
+
+
+
 <details align="center">
 
 <summary> <b> <samp> Light bonfire </samp></b></summary>
