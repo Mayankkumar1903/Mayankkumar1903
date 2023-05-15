@@ -5,8 +5,11 @@
 I'm a computer science student who is passionate about writing code, solving problems, and building software.
 
 - 🔭 I’m currently a CS student at Trident Academy of Technology, INDIA.
-- 📚 I’m currently learning  backend web development using React,NodeJS, ExpressJS and MongoDB.
+- 📚 I’m currently learning  backend web development using React, NodeJS, ExpressJS and MongoDB.
 - 👯 I’m looking for a Web development internship. 
-- 📫 How to reach me: [Linkedin](mayankkumar1903) [Gmail](mailto:mayankk1903@gmail.com)
+- 📫 How to reach me: [Linkedin](www.linkedin.com/in/
+mayankkumar1903
+
+) [Gmail](mailto:mayankk1903@gmail.com)
 
 ⭐️ From [Mayank Kumar](https://github.com/Mayankkumar1903)
