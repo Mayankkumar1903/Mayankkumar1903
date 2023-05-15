@@ -1,54 +1,12 @@
-<p align="center">
-  <br>
-  <samp>
-    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="mayankkumar1903">Mayank Kumar</a></b>.
-    <br>I'm a Computer Engineering Undergraduate Student from INDIA.<br>
+### Hi there 👋
 
-</samp>
+<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
+I'm a computer science student who is passionate about writing code, solving problems, and building software.
 
-</p>
+- 🔭 I’m currently a CS student at Trident Academy of Technology, INDIA.
+- 📚 I’m currently learning  backend web development using React,NodeJS, ExpressJS and MongoDB.
+- 👯 I’m looking for a Web development internship. 
+- 📫 How to reach me: [Linkedin](mayankkumar1903) [Gmail](mailto:mayankk1903@gmail.com)
 
-
-- 🔭 I’m currently working on Data Structures and Algorithms
-- 🌱 I’m currently learning MERN 
-- 💬 Ask me about: tech, anime
-- 😄 Pronouns: he/him
--  ⚡ Languages: C++,JAVA,C,Javascript
-
-
-
-<details align="center">
-
-<summary> <b> <samp> Light bonfire </samp></b></summary>
-<samp>
- <b><h2 style="color: #fc6203">B O N F I R E &nbsp; L I T !</h2> </b>
-
-<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
-
-Current Project: <a href="https://github.com/TanZng/dijkstras-shortest-path">Dijkstra's shortest path visualizer.</a>
-
-<p align="center">
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/tania-r-zuniga/">
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/linkedin.png" width="30px" alt="LinkedIn"></a>
-  &nbsp; &nbsp;
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://twitter.com/tanx_dev">
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/twitter.png" width="30px" alt="Twitter"></a>
-  &nbsp; &nbsp;
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://www.hackerrank.com/tanx_dev">
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hackerrank.png" width="30px" alt="HackerRank"></a>
-  &nbsp; &nbsp;
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://leetcode.com/tan_dev/">
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/leetcode.png" width="30px" alt="LeetCode"></a>
-  &nbsp;
-  &nbsp;
-  <a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev/estus-flask">
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/estus_flask.png" width="23px" alt="Secret"></a>
-</p> 
-
-
-</samp>
-</details>
-
-⭐️ From [Mayank](https://github.com/Mayankkumar1903)
+⭐️ From [Mayank Kumar](https://github.com/Mayankkumar1903)
