@@ -4,9 +4,9 @@
 
 I'm a computer science student who is passionate about writing code, solving problems, and building software.
 
-- 🔭 I’m currently a CS student at Trident Academy of Technology, INDIA.
 - 📚 I’m currently learning  web development using React, NodeJS, ExpressJS and MongoDB.
-- 👯 I’m looking for a Web development internship. 
+- 👯 I’m looking for a Web development Role.
+- 📚 Learning RUST 
 - 📫 How to reach me: [Linkedin](www.linkedin.com/in/
 mayankkumar1903
 
