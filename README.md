@@ -1,15 +1,34 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋, I'm Mayank Kumar</h1>
 
-<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+I'm a **Computer Science Graduate** passionate about writing code, solving problems, and building impactful software.
 
-I'm a computer science Graduate who is passionate about writing code, solving problems, and building software.
+---
 
-- 📚 I’m currently learning  web development using React, NodeJS, ExpressJS and MongoDB.
-- 👯 I’m looking for a Web development Role.
-- 📚 Learning RUST 
-- 📫 How to reach me: [Linkedin](www.linkedin.com/in/
-mayankkumar1903
+### 🌟 About Me
+- 📫 How to reach me: 
+  - [LinkedIn](https://www.linkedin.com/in/mayankkumar1903/)
+  - [Gmail](mailto:mayankk1903@gmail.com)
 
-) [Gmail](mailto:mayankk1903@gmail.com)
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mayankkumar1903&show_icons=true&theme=radical" alt="Mayank Kumar's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mayankkumar1903&theme=radical" alt="Mayank Kumar's GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayankkumar1903&layout=compact&theme=radical" alt="Mayank Kumar's Most Used Languages" />
+</p>
+
+---
 
 ⭐️ From [Mayank Kumar](https://github.com/Mayankkumar1903)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mayankkumar1903&label=Profile%20Views&color=0e75b6&style=flat" alt="Mayank Kumar Profile Views" />
+</p>
