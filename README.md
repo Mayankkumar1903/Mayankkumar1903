@@ -6,23 +6,16 @@ I'm a **Computer Science Graduate** passionate about writing code, solving probl
 
 ### 🌟 About Me
 - 📫 How to reach me: 
-  - [LinkedIn](https://www.linkedin.com/in/mayankkumar1903/)
-  - [Gmail](mailto:mayankk1903@gmail.com)
+  - [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mayankkumar1903/)
+  - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mayankk1903@gmail.com)
 
 ---
 
-### 📊 GitHub Stats
+
+### 💻 Languages I Use
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mayankkumar1903&show_icons=true&theme=radical" alt="Mayank Kumar's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mayankkumar1903&theme=radical" alt="Mayank Kumar's GitHub Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayankkumar1903&layout=compact&theme=radical" alt="Mayank Kumar's Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayankkumar1903&layout=compact&langs_count=10&theme=radical" alt="Mayank Kumar's Most Used Languages" />
 </p>
 
 ---
